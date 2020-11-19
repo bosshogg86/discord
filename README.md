@@ -11,3 +11,4 @@ A discord clone made with react and redux. Deployed with firebase
 ## Deployment
 
 [Discord clone](https://discord-47ed9.web.app/)
+  ![Dashboard](src/images/discordss.png)
