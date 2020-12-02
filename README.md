@@ -1,6 +1,6 @@
 # Discord clone
 
-A discord clone made with react and redux. Deployed with firebase
+A discord clone made with react and redux. This clone uses Google Oauth and is deployed with firebase.
 
 ## Built With
 * [React](https://reactjs.org/)
