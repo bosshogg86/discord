@@ -11,4 +11,4 @@ A discord clone made with react and redux. This clone uses Google Oauth and is d
 ## Deployment
 
 [Discord clone](https://discord-47ed9.web.app/)
-  ![Dashboard](src/images/discordss.png)
+  [![Dashboard](src/images/discordss.png)](https://discord-47ed9.web.app/ "Discord-clone")
