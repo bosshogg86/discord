@@ -1,6 +1,6 @@
-# Discord clone
+# Chatter
 
-A discord clone made with react and redux. This clone uses Google Oauth and is deployed with firebase.
+A Discord style chat app built with react. Demonstrates basic chat functionality, creating a channel and sending messages. Implements Google Oauth for login.
 
 ## Built With
 * [React](https://reactjs.org/)
@@ -10,5 +10,5 @@ A discord clone made with react and redux. This clone uses Google Oauth and is d
 
 ## Deployment
 
-[Discord clone](https://discord-47ed9.web.app/)
-  [![Dashboard](src/images/discordss.png)](https://discord-47ed9.web.app/ "Discord-clone")
+[Chatter](https://discord-47ed9.web.app/)
+  [![Chatter](src/images/discordss.png)](https://discord-47ed9.web.app/ "Chatter")
